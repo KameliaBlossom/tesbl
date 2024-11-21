@@ -8,7 +8,7 @@ namespace tesbl
         {
             Console.WriteLine("Hi, Mir!");
             Console.WriteLine("Hi, End!");
-            
+            //1111;
             // hw
         }
     }
