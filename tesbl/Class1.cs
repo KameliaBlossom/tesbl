@@ -8,6 +8,8 @@ namespace tesbl
         {
             Console.WriteLine("Hi, Mir!");
             Console.WriteLine("Hi, End!");
+            
+            // hw
         }
     }
 }
